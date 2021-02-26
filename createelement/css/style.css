@@ -1,0 +1,11 @@
+@import url(bootstrap.min.css);
+@import url(all.min.css);
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.myStyle{
+    background: red;
+    padding: 0px 5px 0px 5px;
+}
